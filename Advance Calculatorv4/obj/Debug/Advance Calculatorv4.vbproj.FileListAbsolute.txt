@@ -1,0 +1,31 @@
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.exe.config
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.exe
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.pdb
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.xml
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.vbprojResolveAssemblyReference.cache
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Home.resources
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Resources.resources
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.vbproj.GenerateResource.Cache
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.exe
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.xml
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.pdb
+c:\users\damitobex\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.General.resources
+C:\Users\DAMITOBEX\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Matrix.resources
+C:\Users\DAMITOBEX\documents\visual studio 2015\Projects\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.PolynomialEquationForm.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.exe.config
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.exe
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.xml
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.pdb
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.exe
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.pdb
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\bin\Debug\Advance Calculatorv4.xml
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.vbprojResolveAssemblyReference.cache
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Home.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.General.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Matrix.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Resources.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.PolynomialEquationForm.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance Calculatorv4.vbproj.GenerateResource.Cache
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.LinearEquationForm.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Simultaneous.resources
+C:\Users\Basil O. Ugbomoiko\Downloads\Advance Calculatorv4\Advance Calculatorv4\obj\Debug\Advance_Calculatorv4.Form1.resources
